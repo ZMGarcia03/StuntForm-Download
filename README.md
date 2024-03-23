@@ -24,4 +24,4 @@ With this update, users can save the data locally in a CSV file by clicking the 
 Keep in mind that localStorage data is tied to a specific domain (or "origin"), so you'll only see data saved by scripts from the same domain. If you want to access or manage the data programmatically or use it outside of the browser, you'll need to implement some method for exporting or synchronizing it with an external system.
 
 # License
-This project is protected by [MIT License].(LICENSE)
+This project is protected by [MIT License](LICENSE).
